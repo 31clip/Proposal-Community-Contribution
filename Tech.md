@@ -1,6 +1,6 @@
 # Community Tech Contributors CCF Proposal
 
-Send 6.45 billion QUBIC to wallet --------- . Those funds will be distributed among contributors who build something that benefits the Qubic ecosystem. For example, creating statistics, analyses, websites, and similar tools.
+Send 6.45 billion QUBIC to wallet COMMUNJOHCBSTFQKYBCZQGXIPQADSJRODNZKKWBAEGVMZFATRTROETTCRVAI . Those funds will be distributed among contributors who build something that benefits the Qubic ecosystem. For example, creating statistics, analyses, websites, and similar tools.
 
 ### Available Options:
 > **Option 0**: No, I don’t want  
@@ -27,3 +27,4 @@ Send 6.45 billion QUBIC to wallet --------- . Those funds will be distributed am
 
 ### The Selection Jury: Gandalf, El Clip, JOETOM
 We did a selection and let the community vote. The current list has been approved by the community.
+If approved, El Clip will act as escrow to distribute the funds to the selected members.
